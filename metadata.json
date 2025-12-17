@@ -1,0 +1,5 @@
+{
+  "name": "Copy of Sentinel NIDS Dashboard",
+  "description": "A React-based dashboard for a Network Intrusion Detection System. It simulates real-time network traffic analysis, detects anomalies like DDoS and Port Scans, and uses Google Gemini to provide threat intelligence and mitigation strategies.",
+  "requestFramePermissions": []
+}
